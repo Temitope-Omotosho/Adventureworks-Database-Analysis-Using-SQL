@@ -9,4 +9,4 @@ The Adventureworks database was used in this analysis and the Entity Relationshi
 - Person
 - Dbo.
 
-[ERD]()
+![ERD](https://github.com/Temitope-Omotosho/Adventureworks-Database-Analysis-Using-SQL/blob/master/Adventure%20Works%20ERD.png)
